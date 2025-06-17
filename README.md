@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/cs23b2009/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cs23b2009/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/cs23b2009/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
