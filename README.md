@@ -86,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cs23b2009/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/cs23b2009/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cs23b2009/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/cs23b2009/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -138,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cs23b2009/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cs23b2009/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
