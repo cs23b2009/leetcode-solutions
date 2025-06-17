@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/cs23b2009/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/cs23b2009/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/cs23b2009/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/cs23b2009/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
