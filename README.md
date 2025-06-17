@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/cs23b2009/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/cs23b2009/leetcode-solutions/tree/master/0155-min-stack) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/cs23b2009/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/cs23b2009/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Counting
 |  |
