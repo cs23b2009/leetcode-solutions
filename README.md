@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cs23b2009/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cs23b2009/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/cs23b2009/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cs23b2009/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cs23b2009/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Design
 |  |
