@@ -1,114 +1,52 @@
 class LFUCache {
 public:
-    class Node {
-    public:
-        int key, val, freq;
-        Node *prev, *next;
-        Node(int k, int v) {
-            key = k;
-            val = v;
-            freq = 1;
-            prev = next = nullptr;
-        }
-    };
-
-    class DLL {
-    public:
-        Node *head, *tail;
-        int size;
-
-        DLL() {
-            head = new Node(-1, -1);
-            tail = new Node(-1, -1);
-            head->next = tail;
-            tail->prev = head;
-            size = 0;
-        }
-
-        void addFront(Node *node) {
-            Node *temp = head->next;
-            head->next = node;
-            node->prev = head;
-            node->next = temp;
-            temp->prev = node;
-            size++;
-        }
-
-        void removeNode(Node *node) {
-            Node *p = node->prev;
-            Node *n = node->next;
-            p->next = n;
-            n->prev = p;
-            size--;
-        }
-
-        Node* removeLast() {
-            if (size == 0) return nullptr;
-            Node *node = tail->prev;
-            removeNode(node);
-            return node;
-        }
-    };
-
-    int cap, minFreq;
-    unordered_map<int, Node*> keyMap;
-    unordered_map<int, DLL*> freqMap;
-
     LFUCache(int capacity) {
-        cap = capacity;
-        minFreq = 0;
+        capacity_ = capacity;
     }
-
-    void updateFreq(Node *node) {
-        int oldFreq = node->freq;
-        freqMap[oldFreq]->removeNode(node);
-
-        // if old frequency list is empty and was minFreq, update it
-        if (freqMap[oldFreq]->size == 0) {
-            if (minFreq == oldFreq) minFreq++;
-            delete freqMap[oldFreq];
-            freqMap.erase(oldFreq);
-        }
-
-        node->freq++;
-        if (freqMap.find(node->freq) == freqMap.end()) {
-            freqMap[node->freq] = new DLL();
-        }
-        freqMap[node->freq]->addFront(node);
-    }
-
+    
     int get(int key) {
-        if (keyMap.find(key) == keyMap.end()) return -1;
-
-        Node *node = keyMap[key];
-        updateFreq(node);
-        return node->val;
+        auto it = key_value_frequency_.find(key);
+        if (it == key_value_frequency_.end()) return -1;
+        int frequency{it->second.second};
+        int res{it->second.first};
+        frequency_keys_[frequency].erase(key_iterators_[key]);
+        frequency_keys_[frequency + 1].push_front(key);
+        if (frequency == minLevel_ &&
+            frequency_keys_[frequency].empty()) 
+            ++minLevel_;
+        key_iterators_[key] = frequency_keys_[frequency + 1].begin();
+        it->second.second = frequency + 1;
+        return res;
     }
-
+    
     void put(int key, int value) {
-        if (cap == 0) return;
-
-        // Update value if key exists
-        if (keyMap.find(key) != keyMap.end()) {
-            Node *node = keyMap[key];
-            node->val = value;
-            updateFreq(node);
-            return;
+        if (capacity_ == 0) return;
+        auto it = key_value_frequency_.find(key);
+        if (it == key_value_frequency_.end()) {
+            if (key_value_frequency_.size() >= capacity_) {
+                int delKey = frequency_keys_[minLevel_].back();
+                key_value_frequency_.erase(delKey);
+                frequency_keys_[minLevel_].erase(key_iterators_[delKey]);
+                key_iterators_.erase(delKey);
+            }
+            key_value_frequency_[key] = make_pair(value, 1);
+            frequency_keys_[1].push_front(key);
+            key_iterators_[key] = frequency_keys_[1].begin();
+            minLevel_ = 1;
+        } else {
+            it->second.first = value;
+            frequency_keys_[it->second.second].erase(key_iterators_[key]);
+            key_iterators_.erase(key);
+            frequency_keys_[it->second.second + 1].push_front(key);
+            key_iterators_[key] = frequency_keys_[it->second.second + 1].begin();
+            if (minLevel_ == it->second.second && frequency_keys_[minLevel_].empty()) ++minLevel_;
+            it->second.second += 1;
         }
-
-        // Eviction if at capacity
-        if (keyMap.size() >= cap) {
-            Node *nodeToRemove = freqMap[minFreq]->removeLast();
-            keyMap.erase(nodeToRemove->key);
-        }
-
-        // Insert new node
-        Node *newNode = new Node(key, value);
-        minFreq = 1;
-        if (freqMap.find(minFreq) == freqMap.end()) {
-            freqMap[minFreq] = new DLL();
-        }
-        freqMap[minFreq]->addFront(newNode);
-        keyMap[key] = newNode;
     }
+private:
+    unordered_map<int, pair<int, int>> key_value_frequency_;
+    unordered_map<int, list<int>> frequency_keys_;
+    unordered_map<int, list<int>::iterator> key_iterators_;
+    int capacity_;
+    int minLevel_;
 };
