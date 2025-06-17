@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cs23b2009/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cs23b2009/leetcode-solutions/tree/master/0046-permutations) |
