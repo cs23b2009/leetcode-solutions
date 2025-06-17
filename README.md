@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/cs23b2009/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cs23b2009/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0494-target-sum) |
