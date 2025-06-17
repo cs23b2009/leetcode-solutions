@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cs23b2009/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+## Counting
+|  |
+| ------- |
+| [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 <!---LeetCode Topics End-->
