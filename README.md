@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/cs23b2009/leetcode-solutions/tree/master/3893-generate-tag-for-video-caption) |
+## Simulation
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/cs23b2009/leetcode-solutions/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
