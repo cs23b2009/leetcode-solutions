@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cs23b2009/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 ## Stack
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/cs23b2009/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/cs23b2009/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/cs23b2009/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -293,8 +295,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
