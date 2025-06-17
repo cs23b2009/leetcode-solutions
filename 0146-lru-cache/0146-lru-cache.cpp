@@ -65,15 +65,6 @@ public:
             addToFront(newNode);
         }
     }
-
-    ~LRUCache() {
-        Node* curr = head;
-        while (curr) {
-            Node* next = curr->next;
-            delete curr;
-            curr = next;
-        }
-    }
 };
 
 /**
