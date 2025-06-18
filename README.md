@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0040-combination-sum-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Counting
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
