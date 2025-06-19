@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Data Stream
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
