@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/cs23b2009/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Data Stream
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0206-reverse-linked-list) |
