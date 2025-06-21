@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/cs23b2009/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Counting
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
