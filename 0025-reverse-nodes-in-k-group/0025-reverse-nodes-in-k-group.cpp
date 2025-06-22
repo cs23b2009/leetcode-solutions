@@ -12,7 +12,7 @@ class Solution {
 public:
 
 ListNode* reverse(ListNode* head, ListNode* tail) {
-    ListNode* prev = tail; //the prev is the node which is not included in the reversal
+    ListNode* prev = nullptr; 
     while (head != tail) {
         ListNode* next = head->next;
         head->next = prev;
