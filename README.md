@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/cs23b2009/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/cs23b2009/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cs23b2009/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/cs23b2009/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/cs23b2009/leetcode-solutions/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
