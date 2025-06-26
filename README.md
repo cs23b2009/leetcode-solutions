@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cs23b2009/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
