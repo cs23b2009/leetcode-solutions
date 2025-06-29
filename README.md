@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/cs23b2009/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/cs23b2009/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 ## Binary Search
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -367,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
