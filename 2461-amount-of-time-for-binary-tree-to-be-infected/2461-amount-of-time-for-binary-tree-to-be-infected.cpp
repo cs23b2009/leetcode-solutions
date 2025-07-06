@@ -1,85 +1,53 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-
-  void par(unordered_map<TreeNode*,TreeNode*> &parentele ,TreeNode* root ){
-        queue<TreeNode*> que;
-        que.push(root);
-        while(!que.empty()){
-            TreeNode* node = que.front();
-            que.pop();
-            if(node->left) {
-                parentele[node->left] = node;
-                que.push(node->left);
-            }
-            if(node->right) {
-                parentele[node->right] = node;
-                que.push(node->right);
-            }
-        }
-    }
-
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<TreeNode*, TreeNode*> parentele;
-        par(parentele, root);
+        unordered_map<TreeNode*, TreeNode*> parent;
         TreeNode* target = nullptr;
-        queue<TreeNode*> que1;
-        que1.push(root);
-        while(!que1.empty()){
-            TreeNode* node = que1.front();
-            que1.pop();
-            if(node->val==start) {
+
+        // Combine parent mapping and target locating
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode* node = q.front(); q.pop();
+            if (node->val == start) {
                 target = node;
-                break;
             }
-            if(node->left) {
-                que1.push(node->left);
+            if (node->left) {
+                parent[node->left] = node;
+                q.push(node->left);
             }
-            if(node->right) {
-                que1.push(node->right);
-            }
-        }
-        unordered_map<TreeNode*, bool> visited;
-        queue<TreeNode*> que;
-        que.push(target);
-        visited[target] = true;
-        
-        int currlevel = 0;
-        while(!que.empty()) {
-            int size = que.size();
-            currlevel++;
-
-            for(int i = 0; i < size; ++i) {
-                TreeNode* node = que.front(); que.pop();
-
-                if(node->left && !visited[node->left]) {
-                    visited[node->left] = true;
-                    que.push(node->left);
-                }
-                if(node->right && !visited[node->right]) {
-                    visited[node->right] = true;
-                    que.push(node->right);
-                }
-                if(parentele[node] && !visited[parentele[node]]) {
-                    visited[parentele[node]] = true;
-                    que.push(parentele[node]);
-                }
+            if (node->right) {
+                parent[node->right] = node;
+                q.push(node->right);
             }
         }
 
-       return currlevel-1;
+        // BFS from target to calculate infection time
+        unordered_set<TreeNode*> visited;
+        q.push(target);
+        visited.insert(target);
+        int time = -1;
+
+        while (!q.empty()) {
+            int size = q.size();
+            time++;
+            for (int i = 0; i < size; ++i) {
+                TreeNode* node = q.front(); q.pop();
+                if (node->left && visited.find(node->left) == visited.end()) {
+                    visited.insert(node->left);
+                    q.push(node->left);
+                }
+                if (node->right && visited.find(node->right) == visited.end()) {
+                    visited.insert(node->right);
+                    q.push(node->right);
+                }
+                if (parent.count(node) && visited.find(parent[node]) == visited.end()) {
+                    visited.insert(parent[node]);
+                    q.push(parent[node]);
+                }
+            }
+        }
+
+        return time;
     }
-
-     
 };
-
