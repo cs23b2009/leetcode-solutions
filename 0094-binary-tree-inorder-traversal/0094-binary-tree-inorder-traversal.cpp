@@ -13,34 +13,31 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        TreeNode* curr = root;
-
-        while (curr != nullptr) {
-            if (curr->left == nullptr) {
-                ans.push_back(curr->val);
-                curr = curr->right;
-            } else {
-                // Find the inorder predecessor of current
-                TreeNode* pre = curr->left;
-                while (pre->right != nullptr && pre->right != curr) {
-                    pre = pre->right;
+        TreeNode* mover = root;
+        while(mover!=nullptr){
+            if(mover->left==nullptr){
+                ans.push_back(mover->val);
+                mover = mover->right;
+            }
+            else{
+                TreeNode* start = mover ;
+                TreeNode* lastnode = mover->left;
+                mover = lastnode->right;
+                while(mover!=nullptr && mover!=start){
+                    lastnode = mover;
+                    mover = lastnode->right;
                 }
-
-                // Make current as right child of its inorder predecessor
-                if (pre->right == nullptr) {
-                    pre->right = curr;
-                    curr = curr->left;
+                if(mover==start){
+                    lastnode->right = nullptr;
+                    ans.push_back(mover->val);
+                    mover = mover->right;
                 }
-                // Revert the changes made in if part to restore the original tree
-                // i.e., fix the right child of predecessor
-                else {
-                    pre->right = nullptr;
-                    ans.push_back(curr->val);
-                    curr = curr->right;
+                else{
+                    lastnode->right = start;
+                    mover = start->left;
                 }
             }
         }
-
         return ans;
     }
-};
+}; 
