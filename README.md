@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cs23b2009/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Sorting
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Linked List
