@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/cs23b2009/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/cs23b2009/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/cs23b2009/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/cs23b2009/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/cs23b2009/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/cs23b2009/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
