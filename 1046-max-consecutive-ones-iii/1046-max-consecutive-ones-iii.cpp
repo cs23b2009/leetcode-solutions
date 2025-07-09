@@ -5,8 +5,11 @@ public:
         for (int r = 0; r < nums.size(); r++) {
             if (nums[r] == 0) count++;
 
-            while (count > k) {
-                if (nums[l] == 0) count--;
+            if (count > k) {
+                while (nums[l] != 0) {
+                    l++;
+                }
+                count--;
                 l++;
             }
 
