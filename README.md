@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cs23b2009/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
 ## Stack
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/cs23b2009/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
