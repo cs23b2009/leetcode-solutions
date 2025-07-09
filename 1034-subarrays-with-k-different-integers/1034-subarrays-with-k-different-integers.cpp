@@ -6,10 +6,10 @@ public:
         unordered_map<int,int> mpp;
         for (int r = 0; r < nums.size(); ++r) {
             mpp[nums[r]]++;
-            while(mpp.size()>goal){
+            while (mpp.size() > goal) {
                 mpp[nums[l]]--;
-                if(mpp[nums[l]]==0){
-                    mpp.erase(nums[l]);  
+                if (mpp[nums[l]] == 0) {
+                    mpp.erase(nums[l]);  // \U0001f527 Fixed here
                 }
                 l++;
             }
@@ -17,6 +17,7 @@ public:
         }
         return cnt;
     }
+
     int subarraysWithKDistinct(vector<int>& nums, int goal) {
         return atMost(nums, goal) - atMost(nums, goal - 1);
     }
