@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/cs23b2009/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0137-single-number-ii) |
