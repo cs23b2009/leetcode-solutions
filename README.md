@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/cs23b2009/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/cs23b2009/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0494-target-sum) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
