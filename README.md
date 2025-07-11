@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cs23b2009/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
