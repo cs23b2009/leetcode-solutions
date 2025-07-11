@@ -4,15 +4,15 @@ public:
         int n = cost.size();
         if(n == 2) return min(cost[0], cost[1]);
 
-        vector<int> ans(n + 1, INT_MAX);
-
-        ans[0] = 0;
-        ans[1] = 0;
+        int prev1 = 0;
+        int prev2 = 0;
 
         for(int i = 2; i <= n; i++) {
-            ans[i] = min(ans[i - 1] + cost[i - 1], ans[i - 2] + cost[i - 2]);
+            int prev = min(prev1 + cost[i - 1], prev2 + cost[i - 2]);
+            prev2 = prev1 ;
+            prev1 = prev;
         }
 
-        return ans[n];
+        return prev1;
     }
 };
