@@ -21,6 +21,6 @@ public:
             }
             prev = curr;
         }
-        return max(prev[0],prev[1]);
+        return prev[0];
     }
 };
