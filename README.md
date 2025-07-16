@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cs23b2009/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cs23b2009/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cs23b2009/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Counting
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/cs23b2009/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
