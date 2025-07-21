@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cs23b2009/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cs23b2009/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 ## Dynamic Programming
 |  |
