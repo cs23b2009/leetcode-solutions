@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/cs23b2009/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/cs23b2009/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/cs23b2009/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cs23b2009/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/cs23b2009/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cs23b2009/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/cs23b2009/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/cs23b2009/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cs23b2009/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cs23b2009/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/cs23b2009/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/cs23b2009/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/cs23b2009/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/cs23b2009/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/cs23b2009/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cs23b2009/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
