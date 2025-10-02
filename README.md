@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/cs23b2009/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/cs23b2009/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3336-water-bottles-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/cs23b2009/leetcode-solutions/tree/master/3893-generate-tag-for-video-caption) |
 ## Math
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cs23b2009/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cs23b2009/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3336-water-bottles-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
 | ------- |
