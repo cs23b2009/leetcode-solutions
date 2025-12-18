@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cs23b2009/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/cs23b2009/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/3900-find-weighted-median-node-in-tree) |
