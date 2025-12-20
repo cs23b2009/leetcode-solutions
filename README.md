@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/cs23b2009/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/cs23b2009/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0944-delete-columns-to-make-sorted](https://github.com/cs23b2009/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
