@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/cs23b2009/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cs23b2009/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cs23b2009/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/cs23b2009/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/cs23b2009/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Sorting
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/cs23b2009/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cs23b2009/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Monotonic Queue
 |  |
 | ------- |
