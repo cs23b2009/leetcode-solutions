@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/cs23b2009/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cs23b2009/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/cs23b2009/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3885-count-special-triplets](https://github.com/cs23b2009/leetcode-solutions/tree/master/3885-count-special-triplets) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cs23b2009/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/cs23b2009/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cs23b2009/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Design
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/cs23b2009/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cs23b2009/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Graph
 |  |
 | ------- |
