@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/cs23b2009/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/cs23b2009/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/cs23b2009/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/cs23b2009/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/cs23b2009/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cs23b2009/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/cs23b2009/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0840-magic-squares-in-grid](https://github.com/cs23b2009/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/cs23b2009/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/cs23b2009/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0840-magic-squares-in-grid](https://github.com/cs23b2009/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/cs23b2009/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/cs23b2009/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/cs23b2009/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/cs23b2009/leetcode-solutions/tree/master/1036-rotting-oranges) |
