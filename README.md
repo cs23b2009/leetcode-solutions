@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/cs23b2009/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/cs23b2009/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/cs23b2009/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/cs23b2009/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/cs23b2009/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/cs23b2009/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/cs23b2009/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
