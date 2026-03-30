@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cs23b2009/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/cs23b2009/leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/cs23b2009/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/cs23b2009/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
