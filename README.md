@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-cherry-pickup-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/cs23b2009/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/cs23b2009/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/cs23b2009/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/cs23b2009/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/cs23b2009/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
