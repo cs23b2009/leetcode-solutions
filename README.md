@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/cs23b2009/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/cs23b2009/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/cs23b2009/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/cs23b2009/leetcode-solutions/tree/master/0066-plus-one) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/cs23b2009/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/cs23b2009/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/cs23b2009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/cs23b2009/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
