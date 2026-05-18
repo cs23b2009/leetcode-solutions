@@ -1,26 +1,38 @@
 class Solution {
 public:
-    void backtrack(int ind, vector<int>& candidates, int target, vector<int>& curr, vector<vector<int>>& ans) {
-        if (target == 0) {
-            ans.push_back(curr);
+    void recursionn(int ind, vector<int>& candidates, int target, vector<vector<int>>& ans, vector<int>& arr) {
+        if(target == 0) {
+            ans.push_back(arr);
             return;
         }
 
-        for (int i = ind; i < candidates.size(); ++i) {
-            if (i > ind && candidates[i] == candidates[i - 1]) continue;
-            if (candidates[i] > target) break;
+        for(int i = ind; i < candidates.size(); i++) {
 
-            curr.push_back(candidates[i]);
-            backtrack(i + 1, candidates, target - candidates[i], curr, ans); 
-            curr.pop_back();
+            if(i > ind && candidates[i] == candidates[i - 1]) {
+                continue;
+            }
+
+            if(candidates[i] > target) {
+                break;
+            }
+
+            arr.push_back(candidates[i]);
+
+            recursionn(i + 1, candidates, target - candidates[i], ans, arr);
+
+            arr.pop_back();
         }
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end()); 
+
+        sort(candidates.begin(), candidates.end());
+
         vector<vector<int>> ans;
-        vector<int> curr;
-        backtrack(0, candidates, target, curr, ans);
+        vector<int> arr;
+
+        recursionn(0, candidates, target, ans, arr);
+
         return ans;
     }
 };
