@@ -1,20 +1,5 @@
 class Solution {
 public:
-    bool recur(int index,vector<int>&nums,int sum,vector<vector<int>>&dp){
-        if(sum==0){
-            return true;
-        }
-        if(index==nums.size()){
-            return false;
-        }
-        if(dp[index][sum]!=-1) return dp[index][sum];
-        bool pick = false;
-        if(nums[index]<=sum){
-            pick = recur(index+1,nums,sum-nums[index],dp);
-        }
-        bool nonpick = recur(index+1,nums,sum,dp);
-        return dp[index][sum] = pick||nonpick;
-    }
     bool canPartition(vector<int>& nums) {
         int sum = 0;
         for(int i=0;i<nums.size();i++){
@@ -26,7 +11,23 @@ public:
         else{
             return false;
         }
-        vector<vector<int>>dp(nums.size(),vector<int>(sum+1,-1));
-        return recur(0,nums,sum,dp);
+        vector<vector<bool>>dp(nums.size(),vector<bool>(sum+1,false));
+        for(int i=0;i<nums.size();i++){
+            dp[i][0] = true;
+        }
+        if(nums[0]<=sum){
+            dp[0][nums[0]] = true;
+        }
+        for(int i=1;i<nums.size();i++){
+            for(int j=1;j<=sum;j++){
+                bool pick = false;
+                if(j>=nums[i]){
+                    pick = dp[i-1][j-nums[i]];
+                }
+                bool nonpick = dp[i-1][j];
+                dp[i][j] = pick || nonpick;
+            }
+        }
+        return dp[nums.size()-1][sum];
     }
 };
