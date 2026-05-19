@@ -1,42 +1,47 @@
 class Solution {
 public:
- 
-    int satisfy(vector<int>& nums, int mid) {
-        int sum = 0;
-        int cnt = 1;
+    int arra(vector<int>& arr, int mid){
+        int count = 0;
+        int ans = 1;
 
-        for (int x : nums) {
-            if (sum + x <= mid) {
-                sum += x;
-            } else {
-                cnt++;
-                sum = x;  
+        for(int i=0;i<arr.size();i++){
+            if(count + arr[i] > mid){
+                ans++;
+                count = arr[i];
+            }
+            else{
+                count += arr[i];
             }
         }
-        return cnt;
+
+        return ans;
     }
 
     int splitArray(vector<int>& nums, int k) {
-        int low = 0, high = 0;
+        int low = INT_MIN;
+        int high = 0;
 
-        
-        for (int x : nums) {
-            low = max(low, x);
-            high += x;    
+        for(int i=0;i<nums.size();i++){
+            low = max(low, nums[i]);
+            high += nums[i];
         }
 
         int ans = high;
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while(low <= high){
+            int mid = low + (high - low)/2;
 
-            if (satisfy(nums, mid) <= k) {
+            int count = arra(nums, mid);
+
+            if(count > k){
+                low = mid + 1;
+            }
+            else{
                 ans = mid;
-                high = mid - 1; 
-            } else {
-                low = mid + 1; 
+                high = mid - 1;
             }
         }
+
         return ans;
     }
 };
