@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/cs23b2009/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/cs23b2009/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -843,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/cs23b2009/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cs23b2009/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/cs23b2009/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
