@@ -1,23 +1,15 @@
-#include <string>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length())
-            return false;
+        if(s.length() != t.length()) return false;
 
-        vector<int> count(26, 0); // only lowercase letters assumed
+        unordered_map<char,int> mpp;
 
-        for (int i = 0; i < s.length(); ++i) {
-            count[s[i] - 'a']++;
-            count[t[i] - 'a']--;
-        }
+        for(char c : s) mpp[c]++;
+        for(char c : t) mpp[c]--;
 
-        for (int c : count) {
-            if (c != 0)
-                return false;
+        for(auto it : mpp){
+            if(it.second != 0) return false;
         }
 
         return true;
