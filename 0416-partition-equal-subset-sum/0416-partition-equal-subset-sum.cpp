@@ -11,23 +11,25 @@ public:
         else{
             return false;
         }
-        vector<vector<bool>>dp(nums.size(),vector<bool>(sum+1,false));
-        for(int i=0;i<nums.size();i++){
-            dp[i][0] = true;
-        }
+        vector<bool>prev(sum+1,false);
+        vector<bool>curr(sum+1,false);
+            prev[0] = true;
+            curr[0] = true;
         if(nums[0]<=sum){
-            dp[0][nums[0]] = true;
+            prev[nums[0]] = true;
+            curr[nums[0]] = true;
         }
         for(int i=1;i<nums.size();i++){
             for(int j=1;j<=sum;j++){
                 bool pick = false;
                 if(j>=nums[i]){
-                    pick = dp[i-1][j-nums[i]];
+                    pick = prev[j-nums[i]];
                 }
-                bool nonpick = dp[i-1][j];
-                dp[i][j] = pick || nonpick;
+                bool nonpick = prev[j];
+                curr[j] = pick || nonpick;
             }
+            prev = curr;
         }
-        return dp[nums.size()-1][sum];
+        return prev[sum];
     }
 };
