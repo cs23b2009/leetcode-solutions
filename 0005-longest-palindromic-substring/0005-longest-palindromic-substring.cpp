@@ -1,22 +1,31 @@
 class Solution {
 public:
-    string expand(string s, int left, int right) {
-        while (left >= 0 && right < s.length() && s[left] == s[right]) {
-            left--;
-            right++;
+    bool palindromee(string &s, int i, int j) {
+        while(i < j) {
+            if(s[i] != s[j]) {
+                return false;
+            }
+            i++;
+            j--;
         }
-        return s.substr(left + 1, right - left - 1);
+        return true;
     }
 
     string longestPalindrome(string s) {
-        if (s.empty()) return "";
+        int len = 0;
         string ans = "";
 
-        for (int i = 0; i < s.length(); i++) {
-            string odd = expand(s, i, i);
-            if (odd.length() > ans.length()) ans = odd;
-            string even = expand(s, i, i + 1);
-            if (even.length() > ans.length()) ans = even;
+        for(int i = 0; i < s.size(); i++) {
+            for(int j = i; j < s.size(); j++) {
+
+                if(palindromee(s, i, j)) {
+
+                    if(len < j - i + 1) {
+                        len = j - i + 1;
+                        ans = s.substr(i, j - i + 1);
+                    }
+                }
+            }
         }
 
         return ans;
