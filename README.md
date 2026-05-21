@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/cs23b2009/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cs23b2009/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/cs23b2009/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
