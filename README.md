@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/cs23b2009/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cs23b2009/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/cs23b2009/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/cs23b2009/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/cs23b2009/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cs23b2009/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/cs23b2009/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
