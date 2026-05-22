@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/cs23b2009/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cs23b2009/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/cs23b2009/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/cs23b2009/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/cs23b2009/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
