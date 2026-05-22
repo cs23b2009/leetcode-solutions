@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/cs23b2009/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/cs23b2009/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/cs23b2009/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/cs23b2009/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/cs23b2009/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/cs23b2009/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/cs23b2009/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/cs23b2009/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/cs23b2009/leetcode-solutions/tree/master/0460-lfu-cache) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cs23b2009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/cs23b2009/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
