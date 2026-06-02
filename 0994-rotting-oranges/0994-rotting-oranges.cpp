@@ -3,44 +3,40 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-
-        queue<pair<int,int>> q;
-        int fresh = 0;
-
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == 2)
-                    q.push({i, j});
-                else if(grid[i][j] == 1)
-                    fresh++;
+        queue<pair<pair<int,int>,int>>q;
+        int ans = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2){
+                    q.push({{i,j},0});
+                }
+                else if(grid[i][j]==1){
+                    ans++;
+                }
             }
         }
-
         int time = 0;
-        int dx[4] = {1, -1, 0, 0};
-        int dy[4] = {0, 0, 1, -1};
-
-
-        while(!q.empty() && fresh > 0){
-            int sz = q.size();
-            while(sz--){
-                auto [x, y] = q.front();
-                q.pop();
-
-                for(int d = 0; d < 4; d++){
-                    int nx = x + dx[d];
-                    int ny = y + dy[d];
-
-                    if(nx >= 0 && ny >= 0 && nx < n && ny < m && grid[nx][ny] == 1){
-                        grid[nx][ny] = 2;
-                        fresh--;
-                        q.push({nx, ny});
+        vector<int> roww = {-1,0,1,0};
+        vector<int> coll = {0,1,0,-1};
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+            time = max(time,it.second);
+            for(int i=0;i<4;i++){
+                int nr = it.first.first + roww[i];
+                int nc = it.first.second + coll[i];
+                if(nr>=0 && nr<n && nc >=0 && nc < m){
+                    if(grid[nr][nc]==1){
+                        grid[nr][nc] = 2;
+                        q.push({{nr,nc},it.second+1});
+                        ans--;
                     }
                 }
             }
-            time++;
         }
-
-        return fresh == 0 ? time : -1;
+        if(ans!=0){
+            return -1;
+        }
+        return time;
     }
 };
