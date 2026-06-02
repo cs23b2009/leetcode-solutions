@@ -899,4 +899,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/cs23b2009/leetcode-solutions/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/cs23b2009/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/cs23b2009/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
