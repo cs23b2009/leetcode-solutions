@@ -1,38 +1,35 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adjlist(numCourses);
-        vector<int> indegree(numCourses, 0);
-
-        // Build adjacency list and indegree array
-        for (auto& pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            adjlist[prereq].push_back(course);  // prereq -> course
-            indegree[course]++;
+        int n = prerequisites.size();
+        vector<int>adj[numCourses];
+        for(int i=0;i<n;i++){
+            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
-
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
+        vector<int> indegree(numCourses,0);
+        for(int i=0;i<numCourses;i++){
+            for(auto it:adj[i]){
+                indegree[it]++;
+            }
+        }
+        queue<int>q;
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0){
                 q.push(i);
             }
         }
-
         int count = 0;
-        while (!q.empty()) {
-            int node = q.front();
+        while(!q.empty()){
+            auto it = q.front();
             q.pop();
             count++;
-
-            for (int neighbor : adjlist[node]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) {
-                    q.push(neighbor);
+            for(auto i:adj[it]){
+                indegree[i]--;
+                if(indegree[i]==0){
+                    q.push(i);
                 }
             }
         }
-
-        return count == numCourses;
+        return count==numCourses;
     }
 };
