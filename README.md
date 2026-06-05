@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/cs23b2009/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/cs23b2009/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/cs23b2009/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/cs23b2009/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/cs23b2009/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/cs23b2009/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/cs23b2009/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/cs23b2009/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/cs23b2009/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/cs23b2009/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Data Stream
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/cs23b2009/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/cs23b2009/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/cs23b2009/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cs23b2009/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
