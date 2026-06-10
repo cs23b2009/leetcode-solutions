@@ -11,27 +11,18 @@
  */
 class Solution {
 public:
-    int maxSum = INT_MIN;
+    int ans = INT_MIN;
 
-    int maxGain(TreeNode* root) {
-        if (!root) return 0;
-
-        // Recursively get max gain from left and right, ignore negative paths
-        int left = max(0, maxGain(root->left));
-        int right = max(0, maxGain(root->right));
-
-        // Max path including this node as the highest node
-        int currentMax = root->val + left + right;
-
-        // Update global max if needed
-        maxSum = max(maxSum, currentMax);
-
-        // Return max gain to parent (only one side can be included in parent path)
+    int weight(TreeNode* root) {
+        if(root == nullptr) return 0;
+        int left = max(0, weight(root->left));
+        int right = max(0, weight(root->right));
+        ans = max(ans, root->val + left + right);
         return root->val + max(left, right);
     }
-
+    
     int maxPathSum(TreeNode* root) {
-        maxGain(root);
-        return maxSum;
+        weight(root);
+        return ans;
     }
 };
