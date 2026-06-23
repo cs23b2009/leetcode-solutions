@@ -1,28 +1,25 @@
-#include <algorithm>
-#include <vector>
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& triangle) {
-        int n  = triangle.size();
-        int m = triangle[n-1].size();
-        vector<int> prev(m,0);
-        prev[0] = triangle[0][0];
-        for(int i=1;i<n;i++){
-            vector<int> curr(m,0);
-            for(int j=0;j<=i;j++){
-                int up = INT_MAX;
-                if(i!=j) up = prev[j];
-                int upleft = INT_MAX;
-                if(j>0) upleft = prev[j-1];
-                curr[j] = min(up,upleft) + triangle[i][j];
-            }
-            prev = curr;
+    int func(vector<vector<int>>& triangle,int row,int col,vector<vector<int>>&dp){
+        if(row<0 || col<0 || col>row) return 1e9;
+        if(row==0 && col==0) return triangle[row][col];
+        if(dp[row][col]!=-1) return dp[row][col];
+        int up = 1e9;
+        int upright = 1e9;
+        if(row>0 && col>0){
+            upright = func(triangle,row-1,col-1,dp);
         }
-        int mini = INT_MAX;
-        for(int i=0;i<m;i++){
-            mini = min(mini,prev[i]);
+        if(row>0){
+            up = func(triangle,row-1,col,dp);
         }
-        return mini;
+        return  dp[row][col]=triangle[row][col]+min(upright,up);
     }
-
+    int minimumTotal(vector<vector<int>>& triangle) {
+        int ans = INT_MAX;
+        vector<vector<int>>dp(triangle.size(),vector<int>(triangle.size(),-1));
+        for(int i=0;i<triangle.size();i++){
+            ans = min(ans,func(triangle,triangle.size()-1,i,dp));
+        }
+        return ans;
+    }
 };
