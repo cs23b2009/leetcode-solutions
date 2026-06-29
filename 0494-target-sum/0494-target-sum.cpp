@@ -1,7 +1,7 @@
 class Solution {
 public:
     int func(int ind, vector<int>& nums, int target, vector<vector<int>>& dp, int offset) {
-        if (target < -offset || target > offset) return 0;
+        if (abs(target)> offset) return 0;
         if (ind == 0) {
             if (target == 0 && nums[0] == 0)
                 return 2;
