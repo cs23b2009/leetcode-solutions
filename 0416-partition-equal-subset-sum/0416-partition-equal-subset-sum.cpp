@@ -14,16 +14,14 @@ public:
         for(int i=0;i<n;i++){
             dp[i][0] = true;
         }
-        if (nums[0] <= sum) {
+        if(nums[0]==sum){
             dp[0][nums[0]] = true;
         }
         for(int i=1;i<n;i++){
             for(int j=1;j<=sum;j++){
                 int taken = dp[i-1][j];
                 int nottaken = false;
-                if(nums[i]<=j){
-                    nottaken = dp[i-1][j-nums[i]];
-                }
+                if(j>=nums[i]) nottaken = dp[i-1][j-nums[i]];
                 dp[i][j] = taken || nottaken;
             }
         }
