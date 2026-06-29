@@ -1,18 +1,18 @@
 class Solution {
-    int memoization(int i,vector<int>& nums,vector<vector<int>>& dp,int s,int target){
-        if(i<0){
-            if(s==target) return 1;
+public:
+    int func(int ind, vector<int>& nums, int target) {
+        if (ind == 0) {
+            if (target == 0 && nums[0] == 0)
+                return 2;
+            if (target == nums[0] || target == -nums[0])
+                return 1;
             return 0;
         }
-        if(dp[i][s+1000]!=-1) return dp[i][s+1000];
-        int add=memoization(i-1,nums,dp,s+nums[i],target);
-        int sub=memoization(i-1,nums,dp,s-nums[i],target);
-        return dp[i][s+1000]=add+sub;
+        return func(ind - 1, nums, target - nums[ind]) +
+               func(ind - 1, nums, target + nums[ind]);
     }
-public:
+
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(2001,-1));
-        return memoization(n-1,nums,dp,0,target);
+        return func(nums.size() - 1, nums, target);
     }
 };
