@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/cs23b2009/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/cs23b2009/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/cs23b2009/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/cs23b2009/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cs23b2009/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cs23b2009/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cs23b2009/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
