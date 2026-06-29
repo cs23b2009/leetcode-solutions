@@ -1,30 +1,28 @@
 class Solution {
 public:
+    int func(vector<int>& coins, int amount,vector<int> &dp) {
+        if (amount == 0)
+            return 0;
+
+        if (amount < 0)
+            return INT_MAX;
+
+        int mini = INT_MAX;
+        if(dp[amount]!=-1) return dp[amount];
+        for (int i = 0; i < coins.size(); i++) {
+            int res = func(coins, amount - coins[i],dp);
+
+            if (res != INT_MAX){
+                    mini = min(mini, 1 + res);
+            }
+        }
+
+        return dp[amount]=mini;
+    }
+
     int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount + 1, 1e9)); 
-
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = 0; 
-        }
-
-        for (int j = 1; j <= amount; j++) {
-            if (j % coins[0] == 0) {
-                dp[0][j] = j / coins[0];
-            }
-        }
-
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j <= amount; j++) {
-                int notTaken = dp[i - 1][j];
-                int taken = 1e9;
-                if (coins[i] <= j) {
-                    taken = 1 + dp[i][j - coins[i]];  
-                }
-                dp[i][j] = min(taken, notTaken);
-            }
-        }
-
-        return dp[n - 1][amount] == 1e9 ? -1 : dp[n - 1][amount];
+        vector<int> dp(amount+1,-1);
+        int ans = func(coins, amount,dp);
+        return ans == INT_MAX ? -1 : ans;
     }
 };
