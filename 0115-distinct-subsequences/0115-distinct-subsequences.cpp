@@ -1,24 +1,20 @@
 class Solution {
 public:
-    int numDistinct(string s, string t) {
-        int n = s.size(), m = t.size();
-        vector<int> prev(m + 1, 0);
-        prev[0] = 1;
-
-        for (int i = 1; i <= n; i++) {
-            vector<int> curr(m + 1, 0);
-            curr[0] = 1;
-            for (int j = 1; j <= m; j++) {
-                long long val = prev[j];
-                if (s[i - 1] == t[j - 1]) {
-                    val += prev[j - 1];
-                    curr[j] = val;
-                } else {
-                    curr[j] = val;
-                }
-            }
-            prev = curr;
+    int func(int n,int m,string &s, string &t,vector<vector<int>>& dp){
+        if(m==t.size()) return 1;
+        if(n==s.size()) return 0;
+        if(dp[n][m]!=-1) return dp[n][m];
+        if(s[n]==t[m]){
+            int taken = func(n+1,m+1,s,t,dp);
+            int nottaken = func(n+1,m,s,t,dp);
+            return dp[n][m]=taken+nottaken;
         }
-        return prev[m];
+        else{
+            return dp[n][m]=func(n+1,m,s,t,dp);
+        }
+    }
+    int numDistinct(string s, string t) {
+        vector<vector<int>> dp(s.size(),vector<int>(t.size(),-1));
+        return func(0,0,s,t,dp);
     }
 };
