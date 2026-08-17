@@ -1,21 +1,13 @@
 class Solution {
 public:
+    int recur(int m , int n ,vector<vector<int>>& dp){
+        if(m==0&&n==0) return 1;
+        if(m<0||n<0) return 0;
+        if(dp[m][n]!=-1) return dp[m][n];
+        return dp[m][n]=recur(m-1,n,dp)+recur(m,n-1,dp);
+    }
     int uniquePaths(int m, int n) {
-        vector<int> present(n,0);
-        vector<int> past(n,0);
-        present[0] = 1;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==0 && j==0) continue;
-                if(i>0){
-                    present[j] = past[j];
-                }
-                if(j>0){
-                    present[j] +=  present[j-1];
-                }
-            }
-            past = present;
-        }
-        return present[n-1];
+        vector<vector<int>> dp(m,vector<int>(n,-1));
+        return recur(m-1,n-1,dp);
     }
 };
